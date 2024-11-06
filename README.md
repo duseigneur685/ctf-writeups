@@ -1,4 +1,4 @@
-# CTF WRITEUPS
+# CTF Writeups
 
 This is where I will document my writeups for CTFs, TryHackMe Rooms , HTB , or any resource I find useful.
 
