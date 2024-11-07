@@ -2,9 +2,11 @@
 
 ## Information
 - **CTF:** Deadface CTF 2024
-- -**Link:** https://ctf.deadface.io/
+- **Link:** https://ctf.deadface.io/
+- **Description:** This CTF ran from Fri 08/10 - Sat 09/10 . One of my first time participating in a CTF in conjunction with Huntress CTF. Was a new experience but was good fun and made my brain go in overdrive. One of many!!
 
-## Description
-Provide a brief description of the challenge. This could be the problem statement given during the CTF.
+## Challenges
+
+###
 
 
