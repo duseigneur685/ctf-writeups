@@ -1,5 +1,5 @@
 
-# Capture The Flag (CTF) Write-Up
+# Cyber (CTF) Write-Up
 
 ## Information
 - **CTF:** Cybersecurity Course ctf Challenges
