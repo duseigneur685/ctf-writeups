@@ -1,4 +1,4 @@
-#Huntress CTF 2024
+# Huntress CTF 2024
 
 This was my first CTF I participated since starting out in Cybersecurity. Was pretty fun to solve what I could . I still need heaps of practice, and much more to learn , but was exciting. 
 I was also attempting the Deadface CTF , but I wish i attempted more of the challenges.
